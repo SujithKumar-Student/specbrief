@@ -1,0 +1,6 @@
+{
+  "name": "SpecBrief",
+  "description": "Budget-driven laptop and mobile advisor with processor and RAM filters, honest cons, side-by-side spec comparison, and trusted retailer buy links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
